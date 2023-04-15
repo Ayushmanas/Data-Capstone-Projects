@@ -1,2 +1,2 @@
 # Data-Capstone-Projects
-Data visualization projects from Udemy
+Data Science projects from Udemy
